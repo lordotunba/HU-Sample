@@ -27,7 +27,6 @@ handleGetProviders(){
 }
 
 function mapStateToProps(state,ownProps){
-	console.log(ownProps,state)
 	return {providers: state.services}
  }
 

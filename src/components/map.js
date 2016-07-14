@@ -3,8 +3,6 @@ import {GoogleMapLoader, GoogleMap, Marker} from "react-google-maps";
 
 
 
-
-
 const ParkMap = (props) => {
 
     return (
@@ -20,9 +18,8 @@ const ParkMap = (props) => {
                                    <Marker {...marker}
                                      key={id}
                                      visible ={true}
-                                    onClick={() => props.selectedPark(marker.currentPark)}/>
+                                     onClick={() => props.selectedPark(marker.currentPark)}/>
                              );
-
                        })}
                     </GoogleMap>
                   }

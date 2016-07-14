@@ -21,7 +21,6 @@ componentWillMount(){
 
 
 	render(){
-    console.log(this.props.news)
 		return(
 			<div>
 			  <div className="header">

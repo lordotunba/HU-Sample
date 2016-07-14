@@ -18,10 +18,10 @@ export default function(state = [], action){
                            defaultAnimation:2
                         };
           return eachMarker;
-
       });
+			
     return state.concat(markers);
-		
+
 		default:
 		return state;
 	}

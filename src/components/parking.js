@@ -24,13 +24,8 @@ showSelectedMarker(marker){
   this.props.getSelectedPark(marker)
 
 }
-// selectedPark(marker){
-//   this.props.selectedPark
-// }
 
-
-
-	render(){
+render(){
     console.log(this.props.selectedPark)
 		return(
 			<div>
