@@ -1,0 +1,12 @@
+{
+  "providerLists": [{
+    "font": "fa-newspaper-o",
+    "providerName": "News"
+  }, {
+    "font": "fa-bolt",
+    "providerName": "Weather"
+  }, {
+    "font": "fa-car",
+    "providerName": "Parking"
+  }]
+}
