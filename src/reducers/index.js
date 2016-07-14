@@ -9,6 +9,7 @@ const rootReducer = combineReducers({
   services: ProvidersReducer,
   parking: ParkReducer,
   selectedPark: selectedParkReducer
+  
 });
 
 export default rootReducer;

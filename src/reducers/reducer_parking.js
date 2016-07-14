@@ -17,13 +17,13 @@ export default function(state = [], action){
                            currentPark:latLng,
                            defaultAnimation:2
                         };
-          return eachMarker;
-      });
+        return eachMarker;
+    });
 			
     return state.concat(markers);
 
-		default:
-		return state;
+	default:
+	return state;
 	}
 
 
