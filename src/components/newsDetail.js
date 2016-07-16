@@ -20,7 +20,7 @@ const NewsDetail = (props) => {
            <div>
             <div className="col-md-12">
               <div className="header">
-                <h1> Top News </h1>
+                <h1> Details </h1>
               </div>
               {showDetails}
               </div>
