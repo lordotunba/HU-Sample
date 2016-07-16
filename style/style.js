@@ -32,6 +32,15 @@ export default StyleSheet.create({
         "borderRadius": 2,
         "boxShadow": "0 1px 2px rgba(0,0,0,0.07)"
     },
+    "imgMap": {
+        "textAlign": "center"
+    },
+    "img-style": {
+        "paddingTop": 20
+    },
+    "card-style": {
+        "textAlign": "left"
+    },
     "header": {
         "flex": 2,
         "flexDirection": "row",

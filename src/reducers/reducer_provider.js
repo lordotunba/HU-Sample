@@ -6,7 +6,11 @@ export default function(state = [], action){
 
 	switch(action.type){
 		 case types.FETCH_PROVIDERS:
-		 return [action.payload.data.providerLists, ...state];
+		 let val = state;
+		 if(state.length == 0){
+			 val =[ action.payload.data.providerLists, ...state];
+		 }
+		 return val;
 
 		 default:
 		 return state;

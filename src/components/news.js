@@ -1,7 +1,9 @@
 import React,{Component} from 'react';
 import {connect} from 'react-redux';
-import {fetchNews} from '../actions/index';
+import {fetchNews,getDetails} from '../actions/index';
 import {bindActionCreators} from 'redux';
+import NewsCategory from './newsCategory';
+
 
 class News extends Component {
 	constructor(props,context){
@@ -10,6 +12,10 @@ class News extends Component {
 
 handleGetNews(){
   this.props.fetchNews();
+}
+
+handleGetNewsDetail(news){
+	this.props.getDetails(news);
 }
 
 
@@ -21,13 +27,13 @@ componentWillMount(){
 
 
 	render(){
+
 		return(
 			<div>
-			  <div className="header">
-          <h1> Top News </h1>
-			  </div>
 				<div className="wrapper">
-
+					<NewsCategory categories={this.props.news}
+						           selectedNews={this.handleGetNewsDetail.bind(this)}
+											 detailedNews={this.props.details}/>
 				</div>
 			</div>
 			)
@@ -36,13 +42,14 @@ componentWillMount(){
 
 function mapStateToProps(state,ownProps){
 	return{
-		news:state.news
+		news:state.news.all,
+		details:state.news.detailed
 	};
 
  }
 
 function mapDispatchToProps(dispatch){
-	return bindActionCreators({fetchNews:fetchNews},dispatch);
+	return bindActionCreators({fetchNews:fetchNews,getDetails:getDetails},dispatch);
 }
 
 

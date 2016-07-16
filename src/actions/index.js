@@ -13,6 +13,14 @@ export function fetchNews(){
 
 }
 
+export function getDetails(detailedNews){
+console.log(detailedNews);
+	return {
+		type: types.SHOW_NEWSLIST,
+		payload: detailedNews
+	};
+
+}
 
 export function getSelectedPark(parkMarker){
   return{

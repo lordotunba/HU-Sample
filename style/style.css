@@ -23,6 +23,18 @@ body{
 
 }
 
+.imgMap{
+	text-align: center;
+}
+
+.img-style{
+   padding-top: 20px;
+}
+
+.card-style{
+	text-align: left;
+}
+
 .header{
 	flex:2;
 	flex-direction: row;

@@ -6,6 +6,8 @@ import App from './components/app';
 import HUIndex from './components/hu_index';
 import News from './components/news';
 import Parking from './components/parking';
+// import NewsDetail from './components/NewsDetail';
+import NotFound from './components/notFound';
 
 
 export default(
@@ -17,8 +19,9 @@ export default(
 				{/*<Route path='details/:id' component={NewsDetail} />*/}
 			</Route>
 			<Route path='/parking' component={Parking}/>
+			{/*<Route path='/news/:id' component={NewsDetail} />*/}
 	  </Route>
-     {/*<Route path='*' component={NotFound}/>*/}
+     <Route path='*' component={NotFound}/>
 	</div>
 
 	);
