@@ -14,4 +14,4 @@ _Chrome_ is the only browser that supports this feature.
 sudo npm install
 npm start
 ```
-3. Run the app on your browser (http://localhost:8080/)
+3. Run the app on your browser http://localhost:8080/
