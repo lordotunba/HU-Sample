@@ -1,8 +1,8 @@
-## HeadUnit Sample App built with React
+## HeadUnit Sample App Built with React.js Framework
 
 Description:
 >
-* This sample app comes with text to speech (tts) support on the weather page.
+This sample app comes with text to speech (tts) support on the weather page.
 _Chrome_ is the only browser that supports this feature.
 
 
