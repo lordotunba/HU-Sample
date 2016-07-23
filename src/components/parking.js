@@ -26,7 +26,7 @@ showSelectedMarker(marker){
 }
 
 render(){
-    console.log(this.props.selectedPark)
+    console.log(this.props.selectedPark);
 		return(
 			<div>
 			  <div className="header">

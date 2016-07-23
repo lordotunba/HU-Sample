@@ -9,9 +9,9 @@ const NewsDetail = (props) => {
      return (<div className="card" key={id}>
                  <img className="card-img-top col-sm-12 col-md-12 img-style" src={news.mediumURL} alt="Card image cap"/>
                  <div className="card-block card-style">
-                   <h4 class="card-title">{news.headline}</h4>
-                   <p class="card-text">{news.description}</p>
-                   <a href="#" class="btn btn-primary">Launch News</a>
+                   <h4 className="card-title">{news.headline}</h4>
+                   <p className="card-text">{news.description}</p>
+                   <a href="#" className="btn btn-primary">Launch News</a>
                  </div>
               </div>
            )

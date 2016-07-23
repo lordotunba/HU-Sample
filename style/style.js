@@ -35,6 +35,74 @@ export default StyleSheet.create({
     "imgMap": {
         "textAlign": "center"
     },
+    "weatherWrapper": {
+        "display": "flex",
+        "marginTop": 20,
+        "marginRight": 100,
+        "marginBottom": 20,
+        "marginLeft": 100,
+        "alignItems": "center",
+        "width": 900,
+        "height": 600,
+        "position": "fixed",
+        "background": "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://lh3.googleusercontent.com/-3a9tfucljDw/Vz9NILoSneI/AAAAAAAAFtM/Cs-_mjCo18s_J1jALti-cam5y9-Z67BxACLIB/s1600-w900/') no-repeat center center"
+    },
+    "imgweather": {
+        "paddingTop": 10,
+        "paddingRight": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 10,
+        "marginTop": 50,
+        "marginRight": 70,
+        "marginBottom": 50,
+        "marginLeft": 70
+    },
+    "h2city": {
+        "fontSize": 50,
+        "fontFamily": "sans-serif",
+        "fontWeight": "normal",
+        "color": "#fff"
+    },
+    "spanstate": {
+        "display": "flex",
+        "flexDirection": "column",
+        "fontSize": 70,
+        "color": "#fff",
+        "paddingTop": 20,
+        "paddingRight": 20,
+        "paddingBottom": 20,
+        "paddingLeft": 20,
+        "textShadow": "0 0 10px rgba(0, 0, 0, 0.33)"
+    },
+    "spanheader": {
+        "display": "flex",
+        "alignItems": "center",
+        "flexDirection": "column",
+        "width": 300,
+        "position": "relative",
+        "top": -140,
+        "left": 90
+    },
+    "spanweatherText": {
+        "display": "flex",
+        "fontSize": 40,
+        "position": "relative",
+        "bottom": 270,
+        "color": "aliceblue",
+        "paddingLeft": 20,
+        "fontWeight": "100"
+    },
+    "buttonrs-play": {
+        "display": "none"
+    },
+    "overlay": {
+        "paddingTop": 0,
+        "backgroundColor": "rgba(0, 0, 0, 0.35)",
+        "zIndex": 1300,
+        "width": 900,
+        "height": 200,
+        "position": "fixed"
+    },
     "img-style": {
         "paddingTop": 20
     },
