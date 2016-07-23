@@ -27,8 +27,7 @@ body{
 	text-align: center;
 }
 .weatherWrapper{
-	display: flex;
-	margin:20px 100px;
+	margin:20px auto;
 	align-items: center;
 	width: 900px;
 	height: 600px;
