@@ -8,10 +8,11 @@ _Chrome_ is the only browser that supports this feature.
 
 ### Installation steps
 
-1.Clone the project
-2.Run these commands on your terminal window
+1. Clone the project
+2. Run the commands below on your terminal window
+3. Run the app on your browser http://localhost:8080/
+
 ```
 sudo npm install
 npm start
 ```
-3. Run the app on your browser http://localhost:8080/
