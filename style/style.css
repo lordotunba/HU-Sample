@@ -47,7 +47,6 @@ h2.city{
 
 span.state {
     display: flex;
-    flex-direction: column;
     font-size: 70px;
     color: #fff;
     padding: 20px;

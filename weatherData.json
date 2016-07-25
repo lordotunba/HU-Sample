@@ -5,24 +5,24 @@
     "data": {
       "conditions": {
         "weatherIcon": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content/weather/fcicons/small/IP_ICN_WTHR_3A.png",
-        "pressure": "29.98",
+        "pressure": "30.08",
         "defaultWeatherIcon": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content/weather/fcicons/small/IP_ICN_WTHR_15A.png",
-        "windDirection": "",
-        "lastUpdate": "20160723-0638",
-        "temperature": "56",
-        "tts": "It's 56 and partly sunny.",
-        "windSpeed": "9",
+        "windDirection": "North",
+        "lastUpdate": "20160725-0835",
+        "temperature": "66",
+        "tts": "Today, it's 66 and partly sunny.",
+        "windSpeed": "0",
         "distance": "0.0",
         "category": "4",
-        "humidity": "80",
+        "humidity": "69",
         "weather": "Partly sunny",
         "dayNight": "day",
         "observationStation": {
-          "id": "2628261",
-          "name": "Financial District",
-          "state": "California",
-          "longitude": "-122.3973",
-          "latitude": "37.79262"
+          "id": "341298",
+          "name": "Kirkland",
+          "state": "Washington",
+          "longitude": "-122.2087",
+          "latitude": "47.68149"
         }
       }
     }

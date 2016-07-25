@@ -3,6 +3,7 @@ import Speech from 'react-speech';
 
 const WeatherView = ({currentCondition}) =>{
 const Greetings = "Hi Michael,";
+const stateCode = currentCondition.observationStation.state.slice(0,2);
   return (
     <div className="weatherWrapper">
       <section className="overlay">
@@ -11,7 +12,7 @@ const Greetings = "Hi Michael,";
           <h2 className="city">{currentCondition.temperature}&deg; F</h2>
         </span>
         <span className="state">
-          {currentCondition.observationStation.state}
+          {currentCondition.observationStation.name},{stateCode}
         </span>
         <span className="weatherText">
           {currentCondition.weather}

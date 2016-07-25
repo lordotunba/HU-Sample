@@ -8,10 +8,11 @@ const {width, height, scale} = Dimensions.get("window"),
 export default StyleSheet.create({
     "wrapper": {
         "display": "flex",
-        "flexDirection": "row",
-        "alignItems": "center",
-        "marginTop": 30,
-        "flex": 1
+        "justifyContent": "space-around",
+        "marginTop": 0,
+        "marginRight": "auto",
+        "marginBottom": 0,
+        "marginLeft": "auto"
     },
     "body": {
         "background": "#f4f4f4 !important"
@@ -20,27 +21,28 @@ export default StyleSheet.create({
         "width": 300,
         "flexDirection": "column",
         "alignItems": "center",
-        "display": "flex",
-        "marginTop": 30,
+        "marginTop": 10,
+        "marginRight": 10,
+        "marginBottom": 10,
+        "marginLeft": 10,
         "minHeight": 300,
         "paddingTop": 90,
         "paddingRight": 50,
         "paddingBottom": 90,
         "paddingLeft": 50,
-        "marginLeft": 20,
         "background": "#fff",
         "borderRadius": 2,
-        "boxShadow": "0 1px 2px rgba(0,0,0,0.07)"
+        "boxShadow": "0 1px 2px rgba(0,0,0,0.07)",
+        "textAlign": "center"
     },
     "imgMap": {
         "textAlign": "center"
     },
     "weatherWrapper": {
-        "display": "flex",
         "marginTop": 20,
-        "marginRight": 100,
+        "marginRight": "auto",
         "marginBottom": 20,
-        "marginLeft": 100,
+        "marginLeft": "auto",
         "alignItems": "center",
         "width": 900,
         "height": 600,
@@ -65,7 +67,6 @@ export default StyleSheet.create({
     },
     "spanstate": {
         "display": "flex",
-        "flexDirection": "column",
         "fontSize": 70,
         "color": "#fff",
         "paddingTop": 20,
@@ -126,7 +127,8 @@ export default StyleSheet.create({
         "alignItems": "center"
     },
     "map-widget": {
-        "alignItems": "center"
+        "alignItems": "center",
+        "justifyContent": "center"
     },
     "provider li": {
         "listStyle": "none",
