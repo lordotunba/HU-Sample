@@ -8,6 +8,7 @@ import NewsCategory from './newsCategory';
 class News extends Component {
 	constructor(props,context){
 		super(props);
+		this.handleGetNewsDetail = this.handleGetNewsDetail.bind(this);
 	}
 
 handleGetNews(){
@@ -30,9 +31,9 @@ componentWillMount(){
 
 		return(
 			<div>
-				<div className="wrapper">
+				<div className="wrapper col-lg-12">
 					<NewsCategory categories={this.props.news}
-						           selectedNews={this.handleGetNewsDetail.bind(this)}
+						           selectedNews={this.handleGetNewsDetail}
 											 detailedNews={this.props.details}/>
 				</div>
 			</div>

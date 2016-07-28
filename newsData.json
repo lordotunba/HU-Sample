@@ -5,519 +5,255 @@
     "data": {
       "articleList": {
         "article": [{
-          "headline": "Erdogan announces army overhaul in latest post-coup shakeup",
-          "id": "tag:reuters.com,2016:newsml_KCN0ZX07R:254",
+          "headline": "Brazil's Lula tells U.N. his rights violated in corruption probe",
+          "id": "tag:reuters.com,2016:newsml_KCN1082OA:1",
           "imageList": {
             "image": [{
-              "headline": "Turkish commandos take part in an operation to search for missing military personnel suspected of being involved in the coup attempt, in Marmaris",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L12H-THUMBNAIL.jpg",
-              "description": "Turkish commandos take part in an operation to search for missing military personnel suspected of being involved in the coup attempt, in Marmaris, Turkey, July 22, 2016. REUTERS/Kenan Gurbuz",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L12H-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L12H-VIEWIMAGE.jpg"
+              "headline": "Brazil's former president Lula da Silva attends a protest against Brazil's interim President Michel Temer and in support of suspended President Dilma Rousseff at Paulista Avenue in Sao Paulo",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IQ-THUMBNAIL.jpg",
+              "description": "Brazil's former president Luiz Inacio Lula da Silva attends a protest against Brazil's interim President Michel Temer and in support of suspended President Dilma Rousseff at Paulista Avenue in Sao Paulo, Brazil, June 10, 2016.  REUTERS/Paulo Whitaker",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IQ-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IQ-VIEWIMAGE.jpg"
+            }]
+          },
+          "geography": "BR",
+          "source": "Thomson Reuters",
+          "categoryId": "BEQ259",
+          "dateCreated": "2016-07-28T20:44:34Z",
+          "language": "en",
+          "version": "1"
+        }, {
+          "headline": "Indonesia executes three Nigerians, one local, despite protests",
+          "id": "tag:reuters.com,2016:newsml_KCN1082NT:1",
+          "imageList": {
+            "image": [{
+              "headline": "A nun holds a candle during a demonstration against Indonesia's decision to execute 14 drug convicts in front of the Presidential Palace in Jakarta",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IH-THUMBNAIL.jpg",
+              "description": "A nun holds a candle during a demonstration against Indonesia's decision to execute 14 drug convicts in front of the Presidential Palace in Jakarta, Indonesia, July 28, 2016. REUTERS/Beawiharta",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IH-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IH-VIEWIMAGE.jpg"
             }, {
-              "headline": "Turkish President Erdogan addresses his supporters after the Friday prayers in Ankara",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L0V3-THUMBNAIL.jpg",
-              "description": "Turkish President Tayyip Erdogan addresses his supporters after the Friday prayers in Ankara, Turkey, July 22, 2016. Kayhan Ozer/Presidential Palace/Handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L0V3-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L0V3-VIEWIMAGE.jpg"
+              "headline": "A poster in support of Nigerian death-row prisoner Humphrey Jefferson is seen during a demonstration against Indonesia's decision to execute 14 drug convicts in front of the Presidential Palace in Jakarta",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1II-THUMBNAIL.jpg",
+              "description": "A poster in support of Nigerian death-row prisoner Humphrey Jefferson is seen during a demonstration against Indonesia's decision to execute 14 drug convicts in front of the Presidential Palace in Jakarta, indonesia, July 28, 2016. REUTERS/Beawiharta",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1II-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1II-VIEWIMAGE.jpg"
             }, {
-              "headline": "Turkish President Erdogan attends an interview with Reuters in Ankara",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FE-THUMBNAIL.jpg",
-              "description": "Turkish President Tayyip Erdogan attends an interview with Reuters at the Presidential Palace in Ankara, Turkey, July 21, 2016. REUTERS/Umit Bektas",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FE-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FE-VIEWIMAGE.jpg"
+              "headline": "A protester holds a candle during a demonstration against Indonesia's decision to execute 14 drug convicts in front of the Presidential Palace in Jakarta",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IG-THUMBNAIL.jpg",
+              "description": "A protester holds a candle during a demonstration against Indonesia's decision to execute 14 drug convicts in front of the Presidential Palace in Jakarta, Indonesia, July 28, 2016. REUTERS/Beawiharta",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IG-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1IG-VIEWIMAGE.jpg"
+            }]
+          },
+          "geography": "ID",
+          "source": "Thomson Reuters",
+          "categoryId": "BEQ259",
+          "dateCreated": "2016-07-28T20:38:29Z",
+          "language": "en",
+          "version": "1"
+        }, {
+          "headline": "France had been hunting second church attacker after tip-off",
+          "id": "tag:reuters.com,2016:newsml_KCN10711Y:25",
+          "imageList": {
+            "image": [{
+              "headline": "A view shows the bell tower of the church in Saint-Etienne-du-Rouvray near Rouen in Normandy",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1HN-THUMBNAIL.jpg",
+              "description": "A view shows the bell tower of the church in Saint-Etienne-du-Rouvray near Rouen in Normandy, France, where French priest, Father Jacques Hamel, was killed with a knife and another hostage seriously wounded in an attack on the church that was carried out by assailants linked to Islamic State, July 27, 2016. REUTERS/Pascal Rossignol",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1HN-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1HN-VIEWIMAGE.jpg"
+            }, {
+              "headline": "A woman places flowers to pay tribute to French priest Father Jacques Hamel outside the parish church at Saint-Etienne-du-Rouvray",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R15B-THUMBNAIL.jpg",
+              "description": "A woman places flowers to pay tribute to French priest Father Jacques Hamel outside the parish church at Saint-Etienne-du-Rouvray, near Rouen, France, July 28, 2016.  REUTERS/Pascal Rossignol",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R15B-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R15B-VIEWIMAGE.jpg"
+            }, {
+              "headline": "French CRS police stand guartd in front of the church a day after a hostage-taking in Saint-Etienne-du-Rouvray near Rouen in Normandy",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6Q0W2-THUMBNAIL.jpg",
+              "description": "French CRS police stand guard in front of the church a day after a hostage-taking in Saint-Etienne-du-Rouvray near Rouen in Normandy, France, where French priest, Father Jacques Hamel, was killed with a knife and another hostage seriously wounded in an attack on the church that was carried out by assailants linked to Islamic State. REUTERS/Pascal Rossignol",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6Q0W2-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6Q0W2-VIEWIMAGE.jpg"
+            }, {
+              "headline": "Archbishop of Rouen and Primate of Normandy Mgr Dominique Lebrun greets people in Saint-Etienne-du-Rouvray, near Rouen, France, who gather to pay tribute to French priest, Father Jacques Hamel",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R159-THUMBNAIL.jpg",
+              "description": "Archbishop of Rouen and Primate of Normandy Mgr Dominique Lebrun greets people in Saint-Etienne-du-Rouvray, near Rouen, France, who gather to pay tribute to French priest, Father Jacques Hamel, killed on Tuesday in an attack on the church that was carried out by assailants linked to Islamic State.  REUTERS/Pascal Rossignol",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R159-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R159-VIEWIMAGE.jpg"
+            }, {
+              "headline": "A young girl prays near flowers and candles at the city hall in Saint-Etienne-du-Rouvray to pay tribute to Father Jacques Hamel, who was killed in an attack on a church",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6Q0W3-THUMBNAIL.jpg",
+              "description": "A young girl prays near flowers and candles at the town hall in Saint-Etienne-du-Rouvray, near Rouen in Normandy, France, to pay tribute to French priest, Father Jacques Hamel, who was killed with a knife and another hostage seriously wounded in an attack on a church that was carried out by assailants linked to Islamic State. REUTERS/Pascal Rossignol",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6Q0W3-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6Q0W3-VIEWIMAGE.jpg"
+            }, {
+              "headline": "French CRS police stand guartd in front of the church a day after a hostage-taking in Saint-Etienne-du-Rouvray near Rouen in Normandy",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0CO-THUMBNAIL.jpg",
+              "description": "French CRS police stand guard in front of the church a day after a hostage-taking in Saint-Etienne-du-Rouvray near Rouen in Normandy, France, where French priest, Father Jacques Hamel, was killed with a knife and another hostage seriously wounded in an attack on the church that was carried out by assailants linked to Islamic State, July 27, 2016.    REUTERS/Pascal Rossignol",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0CO-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0CO-VIEWIMAGE.jpg"
+            }]
+          },
+          "geography": "DE",
+          "source": "Thomson Reuters",
+          "categoryId": "BEQ259",
+          "dateCreated": "2016-07-28T20:38:17Z",
+          "language": "en",
+          "version": "25"
+        }, {
+          "headline": "Erdogan wants army under president's control after coup: Turkish official",
+          "id": "tag:reuters.com,2016:newsml_KCN1081HS:12",
+          "imageList": {
+            "image": [{
+              "headline": "Turkey's Prime Minister Yildirim, Chief of Staff General Akar, Defense Minister Isik and the country's top generals pose in Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FZ-THUMBNAIL.jpg",
+              "description": "Turkey's Prime Minister Binali Yildirim (3rd R), Chief of Staff General Hulusi Akar (3rd L), Defense Minister Fikri Isik (2nd R) and the country's top generals pose in Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, after a wreath-laying ceremony ahead of a High Military Council meeting in Ankara, Turkey, July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FZ-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FZ-VIEWIMAGE.jpg"
+            }, {
+              "headline": "Turkey's Prime Minister Binali Yildirim leaves Anitkabir in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G4-THUMBNAIL.jpg",
+              "description": "Turkey's Prime Minister Binali Yildirim (C), flanked by Chief of Staff General Hulusi Akar (front L), Defense Minister Fikri Isik (rear R) and the country's top generals, leaves Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, after a wreath-laying ceremony ahead of a High Military Council meeting in Ankara, Turkey, July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G4-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G4-VIEWIMAGE.jpg"
+            }, {
+              "headline": "Turkey's Prime Minister Binali Yildirim leaves Anitkabir in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G6-THUMBNAIL.jpg",
+              "description": "Turkey's Prime Minister Binali Yildirim (R), flanked by Chief of Staff General Hulusi Akar (L) and the country's top generals, leaves Anitkabir, the mausoleum of modern Turkey founder Mustafa Kemal Ataturk, after a wreath-laying ceremony ahead of a High Military Council meeting in Ankara, Turkey, July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G6-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G6-VIEWIMAGE.jpg"
+            }, {
+              "headline": "Turkey's Prime Minister Binali Yildirim leaves Anitkabir in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G7-THUMBNAIL.jpg",
+              "description": "Turkey's Prime Minister Binali Yildirim (C), flanked by Chief of Staff General Hulusi Akar (L), Defense Minister Fikri Isik (R) and the country's top generals, leaves Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, after a wreath-laying ceremony ahead of a High Military Council meeting in Ankara, Turkey, July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G7-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G7-VIEWIMAGE.jpg"
+            }, {
+              "headline": "Turkish honour guards stand at attention in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G8-THUMBNAIL.jpg",
+              "description": "Turkish honour guards stand at attention as Turkey's Prime Minister Binali Yildirim (not pictured) attends a wreath-laying ceremony at Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, ahead of a High Military Council meeting in Ankara July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G8-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G8-VIEWIMAGE.jpg"
+            }, {
+              "headline": "Turkey's Prime Minister Binali Yildirim attends a wreath-laying ceremony in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G9-THUMBNAIL.jpg",
+              "description": "Turkey's Prime Minister Binali Yildirim (C), flanked by Chief of Staff General Hulusi Akar (3rd L)  and the country's top generals, attends a wreath-laying ceremony in Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, ahead of a High Military Council meeting in Ankara, Turkey, July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G9-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1G9-VIEWIMAGE.jpg"
+            }, {
+              "headline": "Turkey's Prime Minister Binali Yildirim attends a wreath-laying ceremony in Anitkabir in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1GA-THUMBNAIL.jpg",
+              "description": "Turkey's Prime Minister Binali Yildirim, flanked by Chief of Staff General Hulusi Akar (2nd L)  and the country's top generals, attends a wreath-laying ceremony in Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, ahead of a High Military Council meeting in Ankara, Turkey, July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1GA-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1GA-VIEWIMAGE.jpg"
             }, {
               "headline": "Turkish President Tayyip Erdogan attends an interview with Reuters at the Presidential Palace in Ankara",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1PX-THUMBNAIL.jpg",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18X-THUMBNAIL.jpg",
               "description": "Turkish President Tayyip Erdogan attends an interview with Reuters at the Presidential Palace in Ankara, Turkey, July 21, 2016. REUTERS/Umit Bektas",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1PX-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1PX-VIEWIMAGE.jpg"
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18X-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18X-VIEWIMAGE.jpg"
             }, {
-              "headline": "Pro-government demonstrators holding Turkish national flags take part in a march towards the Asian side of the Bosphorus Bridge in Istanbul",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FF-THUMBNAIL.jpg",
-              "description": "Pro-government demonstrators holding Turkish national flags take part in a march towards the Asian side of the Bosphorus Bridge in Istanbul, Turkey, July 21, 2016.  REUTERS/Osman Orsal",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FF-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FF-VIEWIMAGE.jpg"
+              "headline": "Turkish soldiers search for missing military personnel suspected of being involved in the coup attempt in Marmaris",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0TB-THUMBNAIL.jpg",
+              "description": "Turkish soldiers search for missing military personnel suspected of being involved in the coup attempt in Marmaris, Turkey, July 18, 2016. REUTERS/Kenan Gurbuz",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0TB-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0TB-VIEWIMAGE.jpg"
             }, {
-              "headline": "Pro-government demonstrators hold a giant Turkish national flag during a march towards the Asian side of the Bosphorus Bridge in Istanbul",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FL-THUMBNAIL.jpg",
-              "description": "Pro-government demonstrators hold a giant Turkish national flag during a march towards the Asian side of the Bosphorus Bridge in Istanbul, Turkey, July 21, 2016.   REUTERS/Osman Orsal",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FL-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FL-VIEWIMAGE.jpg"
+              "headline": "Turkish soldiers detain Staff Sergeant Erkan Cikat, one of the missing military personnel suspected of being involved in the coup attempt, in Marmaris",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0TA-THUMBNAIL.jpg",
+              "description": "Turkish soldiers detain Staff Sergeant Erkan Cikat, one of the missing military personnel suspected of being involved in the coup attempt, in Marmaris, Turkey, July 25, 2016. REUTERS/Kenan Gurbuz",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0TA-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0TA-VIEWIMAGE.jpg"
             }, {
-              "headline": "Pro-government demonstrators take part in a march towards the Asian side of the Bosphorus Bridge in Istanbul",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FH-THUMBNAIL.jpg",
-              "description": "Pro-government demonstrators take part in a march towards the Asian side of the Bosphorus Bridge in Istanbul, Turkey, July 21, 2016.  REUTERS/Osman Orsal",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FH-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FH-VIEWIMAGE.jpg"
+              "headline": "Turkey's Prime Minister Binali Yildirim attends a wreath-laying ceremony in Anitkabir in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0T4-THUMBNAIL.jpg",
+              "description": "Turkey's Prime Minister Binali Yildirim, flanked by Chief of Staff General Hulusi Akar (2nd L)  and the country's top generals, attends a wreath-laying ceremony in Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, ahead of a High Military Council meeting in Ankara, Turkey, July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0T4-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0T4-VIEWIMAGE.jpg"
             }, {
-              "headline": "Turkish President Erdogan attends an interview with Reuters in Ankara",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FN-THUMBNAIL.jpg",
-              "description": "Turkish President Tayyip Erdogan attends an interview with Reuters at the Presidential Palace in Ankara, Turkey, July 21, 2016. REUTERS/Umit Bektas",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FN-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FN-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Pro-government demonstrators holding Turkish national flags and torches take part in a march towards the Asian side of the Bosphorus Bridge in Istanbul",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FM-THUMBNAIL.jpg",
-              "description": "Pro-government demonstrators holding Turkish national flags and torches take part in a march towards the Asian side of the Bosphorus Bridge in Istanbul, Turkey, July 21, 2016.  REUTERS/Osman Orsal",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FM-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FM-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Pro-government demonstrators hold a giant Turkish national flag during a march towards the Asian side of the Bosphorus Bridge in Istanbul",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FK-THUMBNAIL.jpg",
-              "description": "Pro-government demonstrators hold a giant Turkish national flag during a march towards the Asian side of the Bosphorus Bridge in Istanbul, Turkey, July 21, 2016.  REUTERS/Osman Orsal",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FK-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6K1FK-VIEWIMAGE.jpg"
+              "headline": "Turkey's Prime Minister Binali Yildirim attends a wreath-laying ceremony in Ankara",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0T5-THUMBNAIL.jpg",
+              "description": "Turkey's Prime Minister Binali Yildirim (C), flanked by Chief of Staff General Hulusi Akar (3rd L)  and the country's top generals, attends a wreath-laying ceremony in Anitkabir, the mausoleum of modern Turkey's founder Mustafa Kemal Ataturk, ahead of a High Military Council meeting in Ankara, Turkey, July 28, 2016. REUTERS/Umit Bektas",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0T5-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0T5-VIEWIMAGE.jpg"
             }]
           },
-          "geography": "TR",
+          "geography": "US",
           "source": "Thomson Reuters",
           "categoryId": "BEQ259",
-          "dateCreated": "2016-07-22T19:36:28Z",
+          "dateCreated": "2016-07-28T20:35:18Z",
           "language": "en",
-          "version": "254"
+          "version": "12"
         }, {
-          "headline": "Gunmen launch deadly attack on Munich shopping mall, still on the run",
-          "id": "tag:reuters.com,2016:newsml_KCN1021YY:23",
+          "headline": "Syria's Nusra Front says ending al Qaeda ties; U.S. fears for Aleppo",
+          "id": "tag:reuters.com,2016:newsml_KCN108166:16",
           "imageList": {
             "image": [{
-              "headline": "Special force police officers stand guard at entrance of main train station following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DK-THUMBNAIL.jpg",
-              "description": "Special force police officers stand guard at an entrance of the main train station, following a shooting rampage at the Olympia shopping mall in Munich. REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DK-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DK-VIEWIMAGE.jpg"
+              "headline": "Men transport a casualty at a site hit by airstrikes in the rebel held Douma neighbourhood of Damascus",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FJ-THUMBNAIL.jpg",
+              "description": "Men transport a casualty at a site hit by airstrikes in the rebel held Douma neighbourhood of Damascus, Syria, July 25, 2016. REUTERS/Bassam Khabieh",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FJ-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FJ-VIEWIMAGE.jpg"
             }, {
-              "headline": "Screen grab shows plain clothes police officers taking cover in car park of shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CB-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers taking cover in the car park of the Olympia shopping mall during shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CB-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CB-VIEWIMAGE.jpg"
+              "headline": "Still image from video shows Al Qaeda's Ayman al-Zawahri speaking from an unknown location",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FK-THUMBNAIL.jpg",
+              "description": "Al Qaeda's Ayman al-Zawahri speaks from an unknown location, in this still image taken from video uploaded on a social media website June 8, 2011. Social Media Websitevia REUTERS/File Photo",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FK-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1FK-VIEWIMAGE.jpg"
             }, {
-              "headline": "Screen grab shows covered body lying in street following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DO-THUMBNAIL.jpg",
-              "description": "A covered body lying in a street following a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.     REUTERS/Non-stop News",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DO-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DO-VIEWIMAGE.jpg"
+              "headline": "Al Qaeda-linked Nusra Front fighters carry their weapons on the back of a pick-up truck during the release of Lebanese soldiers and policemen in Arsal, eastern Bekaa Valley, Lebanon",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1CE-THUMBNAIL.jpg",
+              "description": "Al Qaeda-linked Nusra Front fighters carry their weapons on the back of a pick-up truck during the release of Lebanese soldiers and policemen in Arsal, eastern Bekaa Valley, Lebanon, in this December 1, 2015 file photo.  REUTERS/Stringer",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1CE-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R1CE-VIEWIMAGE.jpg"
             }, {
-              "headline": "Special force police officers stand guard at entrance of main train station following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DJ-THUMBNAIL.jpg",
-              "description": "Special force police officers stand guard at an entrance of the main train station, following a shooting rampage at the Olympia shopping mall in Munich. REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DJ-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DJ-VIEWIMAGE.jpg"
+              "headline": "Forces loyal to Syria's President Bashar al-Assad walk with their weapons past rubble after they advanced on the southern side of the Castello road in Aleppo",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18A-THUMBNAIL.jpg",
+              "description": "Forces loyal to Syria's President Bashar al-Assad walk with their weapons past rubble after they advanced on the southern side of the Castello road in Aleppo, Syria, in this handout picture provided by SANA on July 28, 2016. SANA/Handout via REUTERS",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18A-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18A-VIEWIMAGE.jpg"
             }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-VIEWIMAGE.jpg"
+              "headline": "A member of forces loyal to Syria's President Bashar al-Assad stands amid damaged buildings after they advanced on the southern side of the Castello road in Aleppo",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18D-THUMBNAIL.jpg",
+              "description": "A member of forces loyal to Syria's President Bashar al-Assad stands amid damaged buildings after they advanced on the southern side of the Castello road in Aleppo, Syria, in this handout picture provided by SANA on July 28, 2016. SANA/Handout via REUTERS",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18D-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18D-VIEWIMAGE.jpg"
             }, {
-              "headline": "Police officers stand guard outside the main train station following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DI-THUMBNAIL.jpg",
-              "description": "Police officers stand guard outside the main train station following a shooting rampage at the Olympia shopping mall in Munich. REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DI-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DI-VIEWIMAGE.jpg"
+              "headline": "Forces loyal to Syria's President Bashar al-Assad walk past rubble after they advanced on the southern side of the Castello road in Aleppo",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18C-THUMBNAIL.jpg",
+              "description": "Forces loyal to Syria's President Bashar al-Assad walk past rubble after they advanced on the southern side of the Castello road in Aleppo, Syria, in this handout picture provided by SANA on July 28, 2016. SANA/Handout via REUTERS",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18C-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18C-VIEWIMAGE.jpg"
             }, {
-              "headline": "Screen grab shows plain clothes police officers running towards car park of shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers running towards car park of the Olympia shopping mall during shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-VIEWIMAGE.jpg"
+              "headline": "Forces loyal to Syria's President Bashar al-Assad are seen near barricades after they advanced on the southern side of the Castello road in Aleppo",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18E-THUMBNAIL.jpg",
+              "description": "Forces loyal to Syria's President Bashar al-Assad are seen near barricades after they advanced on the southern side of the Castello road in Aleppo, Syria, in this handout picture provided by SANA on July 28, 2016. SANA/Handout via REUTERS",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18E-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18E-VIEWIMAGE.jpg"
             }, {
-              "headline": "Police vehicles stand outside the main train station following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DL-THUMBNAIL.jpg",
-              "description": "Police vehicles stand outside the main train station following a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.   REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DL-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DL-VIEWIMAGE.jpg"
+              "headline": "Forces loyal to Syria's President Bashar al-Assad walk past damaged buidlings after they advanced on the southern side of the Castello road in Aleppo",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18F-THUMBNAIL.jpg",
+              "description": "Forces loyal to Syria's President Bashar al-Assad walk past damaged buidlings after they advanced on the southern side of the Castello road in Aleppo, Syria, in this handout picture provided by SANA on July 28, 2016. SANA/Handout via REUTERS",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18F-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R18F-VIEWIMAGE.jpg"
             }, {
-              "headline": "Police officer secures road near to scene of a shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CG-THUMBNAIL.jpg",
-              "description": "A police officer secures a road near to the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CG-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CG-VIEWIMAGE.jpg"
+              "headline": "Men read one of the leaflets dropped by the Syrian army over opposition-held Aleppo districts asking residents to cooperate with the military and calling on fighters to surrender",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R11M-THUMBNAIL.jpg",
+              "description": "Men read one of the leaflets dropped by the Syrian army over opposition-held Aleppo districts asking residents to cooperate with the military and calling on fighters to surrender, Syria July 28, 2016. REUTERS/Abdalrhman Ismail",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R11M-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R11M-VIEWIMAGE.jpg"
             }, {
-              "headline": "A police sniper sits in helicopter above scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CC-THUMBNAIL.jpg",
-              "description": "A police sniper sits in a helicopter above the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CC-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CC-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police make their way to the scene of a shooting rampage at Olympia shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CF-THUMBNAIL.jpg",
-              "description": "Police make their way to the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CF-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CF-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows woman leaving Olympia shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows a woman leaving the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows plain clothes police officers at scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers at the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows Olympia shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows a general view of the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police halt traffic on road near to scene of a shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CD-THUMBNAIL.jpg",
-              "description": "Police halt traffic on a road near to the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CD-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CD-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows Olympia shopping mall entrance during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows the entrance of the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows plain clothes police officers at scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C9-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers at the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C9-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C9-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows police officers taking covder at scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C8-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows police officers taking cover at the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C8-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C8-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-VIEWIMAGE.jpg"
-            }, {
-              "headline": "People stand on balcony of building overlooking scene of a shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CE-THUMBNAIL.jpg",
-              "description": "People stand on a balcony of a building overlooking the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CE-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CE-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-VIEWIMAGE.jpg"
-            }]
-          },
-          "geography": "DE",
-          "source": "Thomson Reuters",
-          "categoryId": "BEQ259",
-          "dateCreated": "2016-07-22T19:34:01Z",
-          "language": "en",
-          "version": "23"
-        }, {
-          "headline": "Multiple casualties in shooting rampage in Munich shopping mall: police",
-          "id": "tag:reuters.com,2016:newsml_KCN1021YY:22",
-          "imageList": {
-            "image": [{
-              "headline": "Special force police officers stand guard at entrance of main train station following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DK-THUMBNAIL.jpg",
-              "description": "Special force police officers stand guard at an entrance of the main train station, following a shooting rampage at the Olympia shopping mall in Munich. REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DK-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DK-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows plain clothes police officers taking cover in car park of shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CB-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers taking cover in the car park of the Olympia shopping mall during shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CB-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CB-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows covered body lying in street following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DO-THUMBNAIL.jpg",
-              "description": "A covered body lying in a street following a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.     REUTERS/Non-stop News",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DO-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DO-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Special force police officers stand guard at entrance of main train station following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DJ-THUMBNAIL.jpg",
-              "description": "Special force police officers stand guard at an entrance of the main train station, following a shooting rampage at the Olympia shopping mall in Munich. REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DJ-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DJ-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police officers stand guard outside the main train station following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DI-THUMBNAIL.jpg",
-              "description": "Police officers stand guard outside the main train station following a shooting rampage at the Olympia shopping mall in Munich. REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DI-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DI-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows plain clothes police officers running towards car park of shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers running towards car park of the Olympia shopping mall during shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police vehicles stand outside the main train station following shooting rampage at shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DL-THUMBNAIL.jpg",
-              "description": "Police vehicles stand outside the main train station following a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.   REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DL-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1DL-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police officer secures road near to scene of a shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CG-THUMBNAIL.jpg",
-              "description": "A police officer secures a road near to the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CG-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CG-VIEWIMAGE.jpg"
-            }, {
-              "headline": "A police sniper sits in helicopter above scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CC-THUMBNAIL.jpg",
-              "description": "A police sniper sits in a helicopter above the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CC-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CC-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police make their way to the scene of a shooting rampage at Olympia shopping mall in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CF-THUMBNAIL.jpg",
-              "description": "Police make their way to the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CF-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CF-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows woman leaving Olympia shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows a woman leaving the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows plain clothes police officers at scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers at the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows Olympia shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows a general view of the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police halt traffic on road near to scene of a shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CD-THUMBNAIL.jpg",
-              "description": "Police halt traffic on a road near to the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CD-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CD-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows Olympia shopping mall entrance during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows the entrance of the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows plain clothes police officers at scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C9-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers at the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C9-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C9-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows police officers taking covder at scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C8-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows police officers taking cover at the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C8-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1C8-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-VIEWIMAGE.jpg"
-            }, {
-              "headline": "People stand on balcony of building overlooking scene of a shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CE-THUMBNAIL.jpg",
-              "description": "People stand on a balcony of a building overlooking the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CE-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1CE-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-VIEWIMAGE.jpg"
-            }]
-          },
-          "geography": "DE",
-          "source": "Thomson Reuters",
-          "categoryId": "BEQ259",
-          "dateCreated": "2016-07-22T19:30:16Z",
-          "language": "en",
-          "version": "22"
-        }, {
-          "headline": "Kerry, Russian foreign minister to discuss Syria in coming days",
-          "id": "tag:reuters.com,2016:newsml_KCN10227I:1",
-          "imageList": {
-            "image": [{
-              "headline": "U.S. Secretary of State Kerry and Russian Foreign Minister Lavrov shake hands during joint news conference following their meeting in Moscow",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1BG-THUMBNAIL.jpg",
-              "description": "U.S. Secretary of State John Kerry (L) and Russian Foreign Minister Sergei Lavrov shake hands during a joint news conference following their meeting in Moscow, Russia, July 16, 2016.  REUTERS/Sergei Karpukhin",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1BG-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1BG-VIEWIMAGE.jpg"
+              "headline": "Smoke rises after airstrikes on Aleppo's Castello road, Syria",
+              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0MR-THUMBNAIL.jpg",
+              "description": "Smoke rises after airstrikes on Aleppo's Castello road, Syria June 2, 2016. REUTERS/Abdalrhman Ismail/File Photo",
+              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0MR-BASEIMAGE.jpg",
+              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6R0MR-VIEWIMAGE.jpg"
             }]
           },
           "geography": "RU",
           "source": "Thomson Reuters",
           "categoryId": "BEQ259",
-          "dateCreated": "2016-07-22T18:39:41Z",
-          "language": "en",
-          "version": "1"
-        }, {
-          "headline": "Multiple deaths at shooting rampage in German shopping mall: police",
-          "id": "tag:reuters.com,2016:newsml_KCN1021YY:16",
-          "imageList": {
-            "image": [{
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A8-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows woman leaving Olympia shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows a woman leaving the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19V-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows plain clothes police officers at scene of shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers at the scene of a shooting rampage at the Olympia shopping mall in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L19Y-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows Olympia shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows a general view of the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A2-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows Olympia shopping mall entrance during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows the entrance of the Olympia shopping mall during a shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AD-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L186-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A0-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A3-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A4-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A6-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A7-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Screen grab shows plain clothes police officers running towards car park of shopping mall during shooting rampage in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-THUMBNAIL.jpg",
-              "description": "A screen grab taken from video footage shows plain clothes police officers running towards car park of the Olympia shopping mall during shooting rampage in Munich, Germany July 22, 2016.  dedinac/Marc Mueller/ handout via REUTERS",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1AC-VIEWIMAGE.jpg"
-            }, {
-              "headline": "Police secure a street near to the scene of a shooting in Munich",
-              "smallURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-THUMBNAIL.jpg",
-              "description": "Police secure a street near to the scene of a shooting in Munich, Germany July 22, 2016.  REUTERS/Michael Dalder",
-              "largeURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-BASEIMAGE.jpg",
-              "mediumURL": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content%2Fshared%2FreutersImages/binary_LYNXNPEC6L1A9-VIEWIMAGE.jpg"
-            }]
-          },
-          "geography": "DE",
-          "source": "Thomson Reuters",
-          "categoryId": "BEQ259",
-          "dateCreated": "2016-07-22T18:24:25Z",
+          "dateCreated": "2016-07-28T20:27:07Z",
           "language": "en",
           "version": "16"
         }]

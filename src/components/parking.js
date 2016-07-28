@@ -7,6 +7,7 @@ import Map from './map';
 class Parking extends Component {
 	constructor(props,context){
 		super(props);
+    this.showSelectedMarker	=	this.showSelectedMarker.bind(this);
 	}
 
 handleGetParking(){
@@ -34,7 +35,7 @@ render(){
 			  </div>
 				<div className="section-map">
           <Map parkingLocations={this.props.parking}
-						   selectedPark={this.showSelectedMarker.bind(this)}/>
+						   selectedPark={this.showSelectedMarker}/>
 				</div>
 			</div>
 			)

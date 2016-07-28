@@ -43,10 +43,10 @@ export default StyleSheet.create({
         "marginRight": "auto",
         "marginBottom": 20,
         "marginLeft": "auto",
-        "alignItems": "center",
+        "display": "flex",
+        "justifyContent": "space-around",
         "width": 900,
         "height": 600,
-        "position": "fixed",
         "background": "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://lh3.googleusercontent.com/-3a9tfucljDw/Vz9NILoSneI/AAAAAAAAFtM/Cs-_mjCo18s_J1jALti-cam5y9-Z67BxACLIB/s1600-w900/') no-repeat center center"
     },
     "imgweather": {
@@ -101,8 +101,7 @@ export default StyleSheet.create({
         "backgroundColor": "rgba(0, 0, 0, 0.35)",
         "zIndex": 1300,
         "width": 900,
-        "height": 200,
-        "position": "fixed"
+        "height": 200
     },
     "img-style": {
         "paddingTop": 20

@@ -9,7 +9,7 @@ body{
 }
 
 .provider{
-	width: 300px;
+	  width: 300px;
     flex-direction: column;
     align-items: center;
     margin: 10px;
@@ -27,10 +27,10 @@ body{
 }
 .weatherWrapper{
 	margin:20px auto;
-	align-items: center;
+	display: flex;
+	justify-content:space-around;
 	width: 900px;
 	height: 600px;
-	position: fixed;
 	background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://lh3.googleusercontent.com/-3a9tfucljDw/Vz9NILoSneI/AAAAAAAAFtM/Cs-_mjCo18s_J1jALti-cam5y9-Z67BxACLIB/s1600-w900/') no-repeat center center;
 }
 
@@ -38,6 +38,7 @@ body{
 	padding: 10px;
   margin: 50px 70px;
 }
+
 h2.city{
 	font-size: 50px;
 	font-family: sans-serif;
@@ -108,9 +109,8 @@ button.rs-play {
 	z-index: 1300;
 	width: 900px;
 	height: 200px;
-	position: fixed;
-
 }
+
 .img-style{
    padding-top: 20px;
 }
@@ -158,8 +158,8 @@ box-shadow: 2px 4px 2px rgba(0,0,0,0.09);
 }
 .providerName{
 	font-family: sans-serif;
-
 }
+
 a:hover{
 	text-decoration: none !important;
 }

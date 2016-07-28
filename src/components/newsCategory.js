@@ -14,14 +14,14 @@ const NewsCategory = (props)=>{
     )
   });
   return (
-  <div>
+  <div className="col-lg-12">
      <div className="col-md-6 col-sm-12 row">
        <div className="header">
           <h1> Top News </h1>
        </div>
       {showCategory}
      </div>
-    <div className="col-md-6 col-sm-12 row pull-right imgMap">{props.detailedNews == null ? '' : <NewsDetail detailedNews={props.detailedNews}/>}</div>
+    <div className="col-md-6 col-sm-12 row  imgMap">{props.detailedNews == null ? '' : <NewsDetail detailedNews={props.detailedNews}/>}</div>
    </div>
   )
 }

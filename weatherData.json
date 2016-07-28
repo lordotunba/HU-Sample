@@ -4,25 +4,25 @@
     "status": 0,
     "data": {
       "conditions": {
-        "weatherIcon": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content/weather/fcicons/small/IP_ICN_WTHR_3A.png",
+        "weatherIcon": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content/weather/fcicons/small/IP_ICN_WTHR_2A.png",
         "pressure": "30.08",
         "defaultWeatherIcon": "http://binaries-sdk.tweddletech.com.s3.amazonaws.com/content/weather/fcicons/small/IP_ICN_WTHR_15A.png",
-        "windDirection": "North",
-        "lastUpdate": "20160725-0835",
-        "temperature": "66",
-        "tts": "Today, it's 66 and partly sunny.",
-        "windSpeed": "0",
+        "windDirection": "",
+        "lastUpdate": "20160728-1402",
+        "temperature": "81",
+        "tts": "It's 81 and sunny.",
+        "windSpeed": "10",
         "distance": "0.0",
-        "category": "4",
-        "humidity": "69",
-        "weather": "Partly sunny",
+        "category": "2",
+        "humidity": "43",
+        "weather": "Sunny",
         "dayNight": "day",
         "observationStation": {
-          "id": "341298",
-          "name": "Kirkland",
+          "id": "331424",
+          "name": "Bellevue",
           "state": "Washington",
-          "longitude": "-122.2087",
-          "latitude": "47.68149"
+          "longitude": "-122.2007",
+          "latitude": "47.61038"
         }
       }
     }
